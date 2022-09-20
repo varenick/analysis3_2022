@@ -1,8 +1,8 @@
 # Analysis III, Fall 2022
 
-Teacher: prof. Clement Hongler
+**Teacher:** prof. Clement Hongler
 
-Teacher assistants: Evgenii Golikov, ...
+**Teacher assistants:** <u>Evgenii Golikov</u>, Gianluca Ceruti, Hamza Drissi Kamili, Boldizsár Estók, Mohae N'Guessan
 
 ## Exercise sheets
 
