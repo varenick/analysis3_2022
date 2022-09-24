@@ -6,4 +6,4 @@
 
 ## Exercise sheets
 
-1. 22.09.2022 [Série 1](/ex1.pdf)
+1. 22.09.2022, 26.09.2022 [Série 1](/ex1.pdf)
