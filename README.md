@@ -6,4 +6,5 @@
 
 ## Exercise sheets
 
-1. 22.09.2022, 26.09.2022 [Série 1](/ex1.pdf) [Solution 1](/solution1.pdf)
+1. 22.09.2022, 26.09.2022 [Série 1](/ex1.pdf), [Solution 1](/solution1.pdf)
+2. 29.09.2022, 3.10.2022 [Série 2](/ex2.pdf)
