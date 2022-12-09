@@ -16,4 +16,5 @@
 8. 10.11.2022, 14.11.2022 [Série 8](/ex8.pdf), [Solution 8](/solution8.pdf)
 9. 17.11.2022, 21.11.2022 [Série 9](/ex9.pdf), [Solution 9](/solution9.pdf)
 10. 24.11.2022, 28.11.2022 [Série 10](/ex10.pdf), [Solution 10](/solution10.pdf)
-11. 1.12.2022, 5.12.2022 [Série 11](/ex11.pdf)
+11. 1.12.2022, 5.12.2022 [Série 11](/ex11.pdf), [Solution 11](/solution11.pdf)
+12. 12.12.2022, 15.12.2022 [Série 12](/ex12.pdf)
